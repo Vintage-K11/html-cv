@@ -1,2 +1,2 @@
 # html-cv
-Started Web-D, Created first html CV file
+Started Web-D, Created first html CV website
